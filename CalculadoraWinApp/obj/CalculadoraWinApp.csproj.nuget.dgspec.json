@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ruans\\OneDrive\\Área de Trabalho\\AcadP\\CalculadoraWinApp\\CalculadoraWinApp.csproj": {}
+    "C:\\Users\\ruans\\OneDrive\\Área de Trabalho\\AcadP\\Calculadora_WinApp\\CalculadoraWinApp\\CalculadoraWinApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ruans\\OneDrive\\Área de Trabalho\\AcadP\\CalculadoraWinApp\\CalculadoraWinApp.csproj": {
+    "C:\\Users\\ruans\\OneDrive\\Área de Trabalho\\AcadP\\Calculadora_WinApp\\CalculadoraWinApp\\CalculadoraWinApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ruans\\OneDrive\\Área de Trabalho\\AcadP\\CalculadoraWinApp\\CalculadoraWinApp.csproj",
+        "projectUniqueName": "C:\\Users\\ruans\\OneDrive\\Área de Trabalho\\AcadP\\Calculadora_WinApp\\CalculadoraWinApp\\CalculadoraWinApp.csproj",
         "projectName": "CalculadoraWinApp",
-        "projectPath": "C:\\Users\\ruans\\OneDrive\\Área de Trabalho\\AcadP\\CalculadoraWinApp\\CalculadoraWinApp.csproj",
+        "projectPath": "C:\\Users\\ruans\\OneDrive\\Área de Trabalho\\AcadP\\Calculadora_WinApp\\CalculadoraWinApp\\CalculadoraWinApp.csproj",
         "packagesPath": "C:\\Users\\ruans\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ruans\\OneDrive\\Área de Trabalho\\AcadP\\CalculadoraWinApp\\obj\\",
+        "outputPath": "C:\\Users\\ruans\\OneDrive\\Área de Trabalho\\AcadP\\Calculadora_WinApp\\CalculadoraWinApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

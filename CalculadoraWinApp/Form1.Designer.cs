@@ -43,7 +43,6 @@
             bt_6 = new Button();
             bt_3 = new Button();
             bt_C = new Button();
-            excluir = new Button();
             bt_igual = new Button();
             tb_resultado = new TextBox();
             label1 = new Label();
@@ -53,9 +52,9 @@
             // 
             // bt_0
             // 
-            bt_0.Location = new Point(69, 276);
+            bt_0.Location = new Point(12, 276);
             bt_0.Name = "bt_0";
-            bt_0.Size = new Size(50, 36);
+            bt_0.Size = new Size(107, 36);
             bt_0.TabIndex = 1;
             bt_0.Text = "0";
             bt_0.UseVisualStyleBackColor = true;
@@ -199,16 +198,7 @@
             bt_C.TabIndex = 15;
             bt_C.Text = "C";
             bt_C.UseVisualStyleBackColor = true;
-            // 
-            // excluir
-            // 
-            excluir.Location = new Point(11, 276);
-            excluir.Name = "excluir";
-            excluir.RightToLeft = RightToLeft.No;
-            excluir.Size = new Size(50, 36);
-            excluir.TabIndex = 16;
-            excluir.Text = "⌦";
-            excluir.UseVisualStyleBackColor = true;
+            bt_C.Click += bt_C_Click;
             // 
             // bt_igual
             // 
@@ -264,7 +254,6 @@
             Controls.Add(label1);
             Controls.Add(tb_resultado);
             Controls.Add(bt_igual);
-            Controls.Add(excluir);
             Controls.Add(bt_C);
             Controls.Add(bt_3);
             Controls.Add(bt_6);
@@ -302,7 +291,6 @@
         private Button bt_6;
         private Button bt_3;
         private Button bt_C;
-        private Button excluir;
         private Button bt_igual;
         private TextBox tb_resultado;
         private Label label1;

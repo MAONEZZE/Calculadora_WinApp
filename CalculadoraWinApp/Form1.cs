@@ -166,5 +166,10 @@ namespace CalculadoraWinApp
             lbox_historico.Items.Add(tb_resultado.Text);
             LimparCampos();
         }
+
+        private void bt_C_Click(object sender, EventArgs e)
+        {
+            LimparCampos();
+        }
     }
 }
