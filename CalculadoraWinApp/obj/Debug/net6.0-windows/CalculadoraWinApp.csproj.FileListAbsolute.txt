@@ -1,0 +1,17 @@
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\CalculadoraWinApp\bin\Debug\net6.0-windows\CalculadoraWinApp.exe
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\CalculadoraWinApp\bin\Debug\net6.0-windows\CalculadoraWinApp.deps.json
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\CalculadoraWinApp\bin\Debug\net6.0-windows\CalculadoraWinApp.runtimeconfig.json
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\CalculadoraWinApp\bin\Debug\net6.0-windows\CalculadoraWinApp.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\CalculadoraWinApp\bin\Debug\net6.0-windows\CalculadoraWinApp.pdb
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\CalculadoraWinApp\obj\Debug\net6.0-windows\CalculadoraWinApp.csproj.AssemblyReference.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\CalculadoraWinApp\obj\Debug\net6.0-windows\CalculadoraWinApp.Form1.resources
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\CalculadoraWinApp\obj\Debug\net6.0-windows\CalculadoraWinApp.csproj.GenerateResource.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\CalculadoraWinApp\obj\Debug\net6.0-windows\CalculadoraWinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\CalculadoraWinApp\obj\Debug\net6.0-windows\CalculadoraWinApp.AssemblyInfoInputs.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\CalculadoraWinApp\obj\Debug\net6.0-windows\CalculadoraWinApp.AssemblyInfo.cs
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\CalculadoraWinApp\obj\Debug\net6.0-windows\CalculadoraWinApp.csproj.CoreCompileInputs.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\CalculadoraWinApp\obj\Debug\net6.0-windows\CalculadoraWinApp.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\CalculadoraWinApp\obj\Debug\net6.0-windows\refint\CalculadoraWinApp.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\CalculadoraWinApp\obj\Debug\net6.0-windows\CalculadoraWinApp.pdb
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\CalculadoraWinApp\obj\Debug\net6.0-windows\CalculadoraWinApp.genruntimeconfig.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\CalculadoraWinApp\obj\Debug\net6.0-windows\ref\CalculadoraWinApp.dll
